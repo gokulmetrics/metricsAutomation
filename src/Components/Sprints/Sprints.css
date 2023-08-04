@@ -1,0 +1,136 @@
+.tableSprints{
+    border: 1.5px  solid rgb(222, 222, 222);
+    border-radius: 5px;
+    min-width: 80%;
+    width:fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+.card{
+    background-color: #0039a6;
+    color: rgb(255, 255, 255);
+}
+
+.sprintStatus1{
+    color: rgb(29, 112, 29);
+    background-color: rgb(189, 245, 189);
+    width: 80px;
+    text-align: center;
+    border: 1px solid none;
+    border-radius: 5px;
+
+}
+
+.sprintStatus2{
+    color: #a13b3b;
+    background-color: #fdc9c9;
+    width: 80px;
+    text-align: center;
+    border: 1px solid none;
+    border-radius: 5px;
+}
+
+.sprintStatus3{
+    color: #a0850d;
+    background-color: #f8e9a5;
+    width: 105px;
+    text-align: center;
+    border: 1px solid none;
+    border-radius: 5px;
+}
+
+.gap {
+    width: 10px;
+    display: inline-block;
+}
+
+.filter{
+    float: right;
+    margin-right: 10.5%;
+}
+
+.yearDrop{
+    color: rgb(0, 0, 0);
+    width: 115px;
+    border: 1px solid rgb(143, 143, 143);
+    border-radius: 4px;
+}
+
+.monthDrop{
+    color: rgb(0, 0, 0);
+    width: 115px;
+    border: 1px solid rgb(143, 143, 143);
+    border-radius: 4px;
+}
+
+.goal{
+    color: #9f3d13;
+    min-width: fit-content;
+    text-align: center;
+    border: 1px solid none;
+    border-radius: 5px;
+}
+
+.unavailable{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 10cm;
+    width: 50%;
+    margin-top: 12.5%;
+    align-items: center;
+    /* display: flex; */
+    justify-content: center;
+}
+
+.reportBtn{
+    background-color: #0e4ab9;
+    color: white;
+    border: 1px solid #0e4ab9;
+    border-radius: 5px;
+    width: 120%;
+    height: 35px;
+}
+
+.reportBtn:hover{
+    background-color: #062b6f;
+    color: white;
+    border: 1px solid #062b6f;
+    border-radius: 5px;
+}
+.reportBtnDiv{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrow{
+    font-size: 10px;
+    color:#ffffff;    
+    background-color: #0e4ab9;
+    border-radius: 50%;
+    border: 0px;
+    width: 20px;
+    height: 20px;
+}
+
+.sprintsCount{
+    padding-bottom: 1%;
+    text-align: center;
+    color: rgb(192, 192, 192);
+}
+
+.note{
+    text-align: center;
+    color: rgb(94, 94, 94);
+    background-color: rgb(202, 202, 202);
+    width: 50%;
+    border: 1px solid none;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 2%;
+    margin-left: 25%;
+}

@@ -1,0 +1,148 @@
+.efficiency1{
+    background-color: rgb(112, 175, 112);
+    color: white;
+    border: 1px solid none;
+    border-radius: 5px;
+    text-align: center;
+    width: 70%;
+}
+
+.efficiency2{
+    background-color: rgb(233, 89, 108);
+    color: white;
+    border: 1px solid none;
+    border-radius: 5px;
+    text-align: center;
+    width: 70%;
+}
+
+.goalValue{
+    background-color: rgb(124, 125, 126);
+    color: rgb(255, 255, 255);
+    border: 1px solid none;
+    border-radius: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.velocityChartDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+    border: 1px solid rgb(196, 196, 196);
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: 540px;
+    padding-top: 60px;
+    border-radius: 3px;
+    position: relative; 
+}
+  
+.dropdownContainer {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+  
+  
+.dropDownChart{
+    border: 1px solid rgb(141, 141, 141);
+    border-radius: 4px;
+    color: rgb(112, 112, 112);
+    padding: 3px;
+    background-color: none;
+}
+
+.tableVelocity{
+    border: 1.5px  solid rgb(222, 222, 222);
+    border-radius: 5px;
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+
+.efficiency{
+    margin-bottom: 70px;
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 3px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.effectiveness{
+    margin-bottom: 70px;
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 3px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.measure{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: 1px solid none;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    background-color: rgb(228, 255, 242);
+    color: rgb(33, 124, 79);
+}
+
+.fte{
+    background-color: rgb(198, 56, 56);
+    min-width: fit-content;
+    text-align: center;
+    border: 1px solid none;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.pie{
+    display: flex;
+    justify-content: center;
+}
+
+.tableShares{
+    border: 1.5px  solid rgb(222, 222, 222);
+    border-radius: 5px;
+    width:75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+
+.productivity{
+    margin-bottom: 70px;
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 3px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.inp::placeholder {
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+
+/* Not Availale */
+.nav{
+    background-color: rgb(255, 255, 189);
+    color: rgb(158, 158, 43);
+    text-align: center;
+    border: 1px solid none;
+    border-radius: 5px;
+    width: fit-content;
+}

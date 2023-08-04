@@ -1,0 +1,35 @@
+.tableComps{
+    border: 1.5px  solid rgb(222, 222, 222);
+    border-radius: 5px;
+    width:75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+.status1{
+    color: rgb(29, 112, 29);
+    background-color: rgb(186, 247, 186);
+    width: 105px;
+    text-align: center;
+    border: 1px solid none;
+    border-radius: 5px;
+}
+
+.status2{
+    color: #a13b3b;
+    background-color: #f8aeae;
+    width: 105px;
+    text-align: center;
+    border: 1px solid none;
+    border-radius: 5px;
+}
+
+.status3{
+    color: #a0850d;
+    background-color: #f8e9a5;
+    width: 105px;
+    text-align: center;
+    border: 1px solid none;
+    border-radius: 5px;
+}

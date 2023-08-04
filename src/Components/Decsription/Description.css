@@ -1,0 +1,45 @@
+.descDiv{
+    width: 80%;
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(5px + 2vmin);
+    color: white;
+    border: 1px solid ;
+    border-radius: 10px;
+    background: linear-gradient(350deg, rgba(2,0,36,1) 0%, rgba(0,57,166,1) 73%, rgba(0,212,255,1) 100%); 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 9%;
+}
+
+.textC{
+    display: inline-block;
+    width: 160px;
+    padding-top: 2%;
+}
+
+.btn{
+    border: 1px solid none;
+    background-color: #0648c3;
+    color: white;
+
+}
+
+.btn:hover{
+    background-color: #01379c;
+    color: white;
+}
+
+.buttons {
+    padding-top: 4%;
+    display: flex;
+    align-items: center;
+  }
+  
+.space {
+    width: 20px;
+}
+  

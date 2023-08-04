@@ -1,0 +1,89 @@
+/* Common styles for dropdowns and buttons */
+.select-wrapper {
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.dropDown {
+  margin-right: 10px;
+  width: 400px;
+  height: 50px;
+  background-color: white;
+  border: 3px solid white;
+  border-radius: 4px;
+}
+
+.btno {
+  font-size: 25px;
+  margin-top: 30px;
+  width: 50px;
+  height: 50px;
+  color: #0039a6;
+  background-color: white;
+  border: 1px;
+  border-radius: 50%;
+}
+
+.btno:hover {
+  cursor: pointer;
+  background-color: #052868;
+  color: white;
+}
+
+.btno:disabled {
+  background-color: #b5b5b8;
+  color: #0039a6;
+  cursor: default;
+}
+
+.main {
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  font-size: calc(12px + 2vmin);
+  color: white;
+  padding-top: 11%;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    135deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(0, 57, 166, 1) 65%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  height: 100vh;
+}
+
+select,
+option {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: medium;
+  font-weight: 500;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  .main {
+    padding-top: 20%;
+  }
+
+  .dropDown {
+    max-width: 300px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .main {
+    padding-top: 15%;
+  }
+
+  .select-wrapper {
+    flex-direction: column;
+  }
+
+  .btno {
+    margin-top: 15px;
+  }
+}
