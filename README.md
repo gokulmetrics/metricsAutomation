@@ -1,3 +1,9 @@
+Note:
+1. Use Firefox
+2. Install one extension to bypass cors rules. Extension name is "CORS Everywhere by spenibus" which is available in https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/
+3. Install Recharts and fontawesome
+
+
 ![1  Selection page](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/4da09962-b7c9-4d2c-9378-1f21f176a841)
 ![2  Description page](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/484f707b-6bb2-43b2-b861-2e996322605c)
 ![3  Issues page](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/b575ede5-a9fd-4201-a537-3a85ea078177)
