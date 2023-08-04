@@ -1,70 +1,16 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![1  Selection page](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/4da09962-b7c9-4d2c-9378-1f21f176a841)
+![2  Description page](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/484f707b-6bb2-43b2-b861-2e996322605c)
+![3  Issues page](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/b575ede5-a9fd-4201-a537-3a85ea078177)
+![4  Components page](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/2bb63738-97e5-4657-8e90-d587a961347f)
+![5  Versions page](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/8b260258-6ca0-4b13-91d6-26adae306f7b)
+![6  Updated Decsription page](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/f05d7cee-40aa-4239-9a83-a7c4ff0c697d)
+![7  Sprints page](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/62317f5f-fb48-4d3b-ae41-dfe4dc88bf55)
+![8  Year filter](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/73fb3c9d-8063-4c72-b9e4-a5dc93f70268)
+![9  Month filter](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/9e5c61b6-f4db-4f27-8464-23295bca8951)
+![10  Velocity Chart](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/88ecbcab-1293-4a4e-a0ac-88b1080d2b82)
+![11  Line Chart](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/a9da7fcb-057e-4200-b547-4a414d648343)
+![12  Area Chart](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/50a32546-a722-4d0d-9b53-98cde00a6cc1)
+![13  Efficiency](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/e97fc1c2-d18f-4cc3-b1f1-83671ae65686)
+![14  Effectiveness](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/955ca3c4-1f26-46ba-bfee-d343ce3e847e)
+![15  Report in Effectiveness](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/82f248c7-b89d-4d50-ba25-2dcb2b3f9271)
+![16  Productivity](https://github.com/gokulmetrics/metricsAutomation/assets/141397975/a2a89701-9ccc-43eb-a264-9e63cf369ff9)
